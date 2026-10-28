@@ -1,8 +1,7 @@
 # Breast Cancer Classification using a Feedforward Neural Network
 
-**Author:** R. Akanksha  
-**Registration No.:** 2023006137  
-**Roll No.:** 56
+**Author:** R. Akanksha 
+Assignment One (Deep Learning)
 
 A PyTorch implementation of a feedforward neural network (FFNN) for binary classification of breast tumors as benign or malignant using the Wisconsin Breast Cancer Diagnostic dataset.
 
