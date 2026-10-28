@@ -1,0 +1,5 @@
+Configuration,Epochs to converge,Best epoch,Final training loss,Final validation loss,Final test accuracy
+SGD + MSE,33,23,0.024786,0.036058,0.921053
+SGD + BCE,28,18,0.100715,0.100394,0.921053
+Adam + MSE,72,62,0.019125,0.026192,0.947368
+Adam + BCE,72,62,0.096068,0.112762,0.947368
